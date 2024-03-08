@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nome": "Enzo Almeida",
+      "CPF": "123.456.789-10",
+      "endereço": "rua Jacuna, 12",
+      "bairro": "Carandiru",
+      "CEP": "02068-010"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
